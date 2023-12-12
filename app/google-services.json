@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "233956669311",
+    "project_id": "autenticacionef",
+    "storage_bucket": "autenticacionef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233956669311:android:1c24dc9be0f3e69224cc4a",
+        "android_client_info": {
+          "package_name": "com.example.appexafin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO1qDFCEP5pFf30QfCz_h1kvqPeofCpFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
